@@ -21,6 +21,6 @@ end11 = "e"
 end12 = "r"
 
 # watch that comma at the end. try removing it to see what happens
-#this adds all the strings above into one and adds a space between chesse and burger with the comma
+#this adds all the variables above into one and adds a space between chesse and burger with the comma
 print end1 + end2 + end3 + end4 + end5 + end6,
 print end7 + end8 + end9 + end10 + end11 + end12
